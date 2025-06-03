@@ -1,4 +1,5 @@
 🔐 Password Manager
+
 A full-stack Password Manager built with React, Tailwind CSS, Express.js, and MongoDB. Users can securely store, copy, edit, and delete their credentials.
 
 🔧 Tech Stack
